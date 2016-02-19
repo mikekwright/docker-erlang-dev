@@ -1,2 +1,10 @@
-# erlang-dev-docker
-Repo holding configuration used to create a docker container that I can use for my erlang development environment (with vim)
+Erlang Development Environment
+----------------------------------
+
+This is a docker container that I use as my erlang development environment.  This allows me to have a system fully catered towards
+erlang development (including vim as the ide).  
+
+## Usage
+
+## Pieces
+
