@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # vi: ft=sh
 
-docker build -t erlang-dev .
+docker build -t mikewright/erlang-dev .
